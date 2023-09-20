@@ -1,0 +1,20 @@
+1.Document Object (document):
+
+The document object represents the web page itself, i.e., the entire HTML document.
+
+It is part of the DOM and provides access to the content and structure of the web page, including HTML elements, attributes, and text content.
+
+You can use the document object to manipulate and interact with the content of the web page. Common operations include modifying the content, changing styles, adding or removing elements, and handling user input.
+
+The document object is typically accessed in JavaScript using the document global variable. For example:
+
+
+2.Window Object (window):
+
+The window object represents the browser window or tab in which the web page is displayed.
+
+It is also part of the DOM and provides access to various properties and methods related to the browser window, such as resizing, navigating, and interacting with the global environment.
+
+You can use the window object to control the behavior and appearance of the browser window itself. For example, you can open new browser windows or tabs, set timeouts and intervals for executing code, and access information about the browser's viewport size.
+
+The window object is typically accessed in JavaScript using the window global variable.
